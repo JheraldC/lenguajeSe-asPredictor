@@ -1,5 +1,4 @@
 *.npy
 *.h5
 env/
-
-env/
+.gitignore
